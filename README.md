@@ -60,7 +60,7 @@ Thanks to [Gabriele Asbesto Zaverio](http://museo.freaknet.org/it/) for the idea
 ###On Amiga OS 1.3
 ![OS13](http://www.sblendorio.eu/images/hangman-amigaos13.png)
 ###On Amiga OS 3.1
-![OS13](http://www.sblendorio.eu/images/hangman-amigaos13.png)
+![OS13](http://www.sblendorio.eu/images/hangman-amigaos31.png)
 
 ##Screenshot on CP/M emulator on Mac OS X
 ![OSX](http://www.sblendorio.eu/images/hangman-cpmosx.png)
