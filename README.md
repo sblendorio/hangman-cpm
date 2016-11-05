@@ -37,7 +37,7 @@ sc math=standard hangman.c xterm.c link to hangman
  - [**words.txt**](https://github.com/sblendorio/hangman-cpm/blob/master/source/words.txt) - Sample set of words used in the game
 - **binary** - Compiled .COM executable files for CP/M-80
  - [**hangman.com**](https://github.com/sblendorio/hangman-cpm/blob/master/binary/hangman.com?raw=true) - Binary executable file for CP/M-80
- - [**hangman.com**](https://github.com/sblendorio/hangman-cpm/blob/master/binary/hangman-for-amiga?raw=true) - Binary executable file for Amiga computers
+ - [**hangman-for-amiga**](https://github.com/sblendorio/hangman-cpm/blob/master/binary/hangman-for-amiga?raw=true) - Binary executable file for Amiga computers
  - [**words.txt**](https://github.com/sblendorio/hangman-cpm/blob/master/source/words.txt) - Sample set of words used in the game
 - **dists** - Collection of CP/M (and Amiga) bootable disk images
  - [**hangman.d71**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.d71?raw=true) - Includes C128 CP/M boot code, all sources and binaries, some utilities
