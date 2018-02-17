@@ -53,7 +53,7 @@ Thanks to [Gabriele Asbesto Zaverio](http://museo.freaknet.org/it/) for the idea
 ## Screenshots on Commodore 128
 ### Terminal choosing
 ![C128 version](http://www.sblendorio.eu/images/hangman-c128a.png)
-###Game screen
+### Game screen
 ![C128 version](http://www.sblendorio.eu/images/hangman-c128b.png)
 
 ## Screenshots on Amiga
