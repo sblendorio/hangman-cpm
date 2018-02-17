@@ -47,20 +47,20 @@ sc math=standard hangman.c xterm.c link to hangman
  - [**hangman-msx.dsk**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman-msx.dsk?raw=true) - Includes MSX-DOS boot code and binaries (MSX-DOS disk image)
  - [**hangman-cpc.dsk**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman-cpc.dsk?raw=true) - Includes CP/M for Amstrad CPC6128 boot code and binaries (CPC CP/M disk image)
 
-##Credits
+## Credits
 Thanks to [Gabriele Asbesto Zaverio](http://museo.freaknet.org/it/) for the idea.
 
-##Screenshots on Commodore 128
-###Terminal choosing
+## Screenshots on Commodore 128
+### Terminal choosing
 ![C128 version](http://www.sblendorio.eu/images/hangman-c128a.png)
 ###Game screen
 ![C128 version](http://www.sblendorio.eu/images/hangman-c128b.png)
 
-##Screenshots on Amiga
-###On Amiga OS 1.3
+## Screenshots on Amiga
+### On Amiga OS 1.3
 ![OS13](http://www.sblendorio.eu/images/hangman-amigaos13.png)
-###On Amiga OS 3.1
+### On Amiga OS 3.1
 ![OS13](http://www.sblendorio.eu/images/hangman-amigaos31.png)
 
-##Screenshot on CP/M emulator on Mac OS X
+## Screenshot on CP/M emulator on Mac OS X
 ![OSX](http://www.sblendorio.eu/images/hangman-cpmosx.png)
