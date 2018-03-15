@@ -31,21 +31,21 @@ sc math=standard hangman.c xterm.c link to hangman
 
 ## Contents of package
 - **source** - Source code in Turbo Modula-2 (despite the name ".BAS")
- - [**xterm.h**](https://github.com/sblendorio/hangman-cpm/blob/master/source/xterm.h) - XTerm Library: header file (for terminal portability)
- - [**xterm.c**](https://github.com/sblendorio/hangman-cpm/blob/master/source/xterm.c) - XTerm Library: implementation module
- - [**hangman.c**](https://github.com/sblendorio/hangman-cpm/blob/master/source/hangman.c) - Main module (run this)
- - [**words.txt**](https://github.com/sblendorio/hangman-cpm/blob/master/source/words.txt) - Sample set of words used in the game
+  - [**xterm.h**](https://github.com/sblendorio/hangman-cpm/blob/master/source/xterm.h) - XTerm Library: header file (for terminal portability)
+  - [**xterm.c**](https://github.com/sblendorio/hangman-cpm/blob/master/source/xterm.c) - XTerm Library: implementation module
+  - [**hangman.c**](https://github.com/sblendorio/hangman-cpm/blob/master/source/hangman.c) - Main module (run this)
+  - [**words.txt**](https://github.com/sblendorio/hangman-cpm/blob/master/source/words.txt) - Sample set of words used in the game
 - **binary** - Compiled .COM executable files for CP/M-80
- - [**hangman.com**](https://github.com/sblendorio/hangman-cpm/blob/master/binary/hangman.com?raw=true) - Binary executable file for CP/M-80
- - [**hangman-for-amiga**](https://github.com/sblendorio/hangman-cpm/blob/master/binary/hangman-for-amiga?raw=true) - Binary executable file for Amiga computers
- - [**words.txt**](https://github.com/sblendorio/hangman-cpm/blob/master/source/words.txt) - Sample set of words used in the game
+  - [**hangman.com**](https://github.com/sblendorio/hangman-cpm/blob/master/binary/hangman.com?raw=true) - Binary executable file for CP/M-80
+  - [**hangman-for-amiga**](https://github.com/sblendorio/hangman-cpm/blob/master/binary/hangman-for-amiga?raw=true) - Binary executable file for Amiga computers
+  - [**words.txt**](https://github.com/sblendorio/hangman-cpm/blob/master/source/words.txt) - Sample set of words used in the game
 - **dists** - Collection of CP/M (and Amiga) bootable disk images
- - [**hangman.d71**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.d71?raw=true) - Includes C128 CP/M boot code, all sources and binaries, some utilities
- - [**hangman.d64**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.d64?raw=true) - Includes C128 CP/M boot code, all sources and binaries
- - [**hangman.adf**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.d64?raw=true) - Includes Amiga boot code, all sources and binaries
- - [**hangman.mfloppy**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.mfloppy?raw=true) - Includes Memotech MTX CP/M boot code and binaries (Memotech type 07 disk image)
- - [**hangman-msx.dsk**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman-msx.dsk?raw=true) - Includes MSX-DOS boot code and binaries (MSX-DOS disk image)
- - [**hangman-cpc.dsk**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman-cpc.dsk?raw=true) - Includes CP/M for Amstrad CPC6128 boot code and binaries (CPC CP/M disk image)
+  - [**hangman.d71**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.d71?raw=true) - Includes C128 CP/M boot code, all sources and binaries, some utilities
+  - [**hangman.d64**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.d64?raw=true) - Includes C128 CP/M boot code, all sources and binaries
+  - [**hangman.adf**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.d64?raw=true) - Includes Amiga boot code, all sources and binaries
+  - [**hangman.mfloppy**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman.mfloppy?raw=true) - Includes Memotech MTX CP/M boot code and binaries (Memotech type 07 disk image)
+  - [**hangman-msx.dsk**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman-msx.dsk?raw=true) - Includes MSX-DOS boot code and binaries (MSX-DOS disk image)
+  - [**hangman-cpc.dsk**](https://github.com/sblendorio/hangman-cpm/blob/master/dists/hangman-cpc.dsk?raw=true) - Includes CP/M for Amstrad CPC6128 boot code and binaries (CPC CP/M disk image)
 
 ## Credits
 Thanks to [Gabriele Asbesto Zaverio](http://museo.freaknet.org/it/) for the idea.
