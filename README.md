@@ -30,7 +30,7 @@ sc math=standard hangman.c xterm.c link to hangman
 ```
 
 ## Contents of package
-- **source** - Source code in Turbo Modula-2 (despite the name ".BAS")
+- **source** - Source code in C
   - [**xterm.h**](https://github.com/sblendorio/hangman-cpm/blob/master/source/xterm.h) - XTerm Library: header file (for terminal portability)
   - [**xterm.c**](https://github.com/sblendorio/hangman-cpm/blob/master/source/xterm.c) - XTerm Library: implementation module
   - [**hangman.c**](https://github.com/sblendorio/hangman-cpm/blob/master/source/hangman.c) - Main module (run this)
